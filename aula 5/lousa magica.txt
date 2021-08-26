@@ -1,0 +1,33 @@
+se hoje faz sol então ( a pergunta for verdadeira)
+     fico feliz
+     tomo sorvete
+     saio na rua de mascara
+     ........
+      
+senão   (for falso)
+    fico triste
+    não tomo sorvete
+
+
+se hoje faz sol então
+inicio
+     coloca todo o bloco de intrução
+fim
+
+se hoje faz sol então{
+      delimitado por chaves
+    }
+
+se hoje faz sol então
+    e aqui tudo o que estiver no recuo
+    vai ser identicado como bloco
+    de instrução do if
+senão
+    bloco de instrução do senão
+
+não pode ser espaço vai reconhecer como erro
+
+if else ifelse elif 
+
+    
+
